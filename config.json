@@ -1,0 +1,16 @@
+{
+    "discord": {
+        "authorization": "",
+        "channel_id": "",
+        "webhook_for_users_without_badges": "",
+        "message_cooldown": 930
+    },
+    "roblox": {
+        "cookie": "",
+        "user_id": "",
+        "game_id": "",
+        "required_badge_ids": [
+            1
+        ]
+    }
+}
